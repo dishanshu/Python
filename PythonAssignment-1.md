@@ -113,6 +113,7 @@ Q25. Write a program to display only those numbers from a list that satisfy the 
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
+```
 >>numbers = [12, 75, 150, 180, 145, 525, 50]
 >>lst = []
 >>for val in numbers:
@@ -123,3 +124,4 @@ numbers = [12, 75, 150, 180, 145, 525, 50]
 >>    if val>500:
 >>        break
 >>print(lst)
+```
