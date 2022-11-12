@@ -1,6 +1,6 @@
 ## Assignment Part-1
 Q1. Why do we call Python as a general purpose and high-level programming language?
- >> It is used in many different dields like web programming AI etc.
+ >> It is used in many different fields like web programming AI etc. and it is called high level because it writtern in human readable format and when we run it is than converted to machine understandable format with the help of interpreter.
  
 Q2. Why is Python called a dynamically typed language?
  >>Because the type of variable's is determined during runtime.
@@ -113,13 +113,13 @@ Q25. Write a program to display only those numbers from a list that satisfy the 
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
-numbers = [12, 75, 150, 180, 145, 525, 50]
-lst = []
-for val in numbers:
-    if val%5 == 0:
-        lst.append(val)
-    if val>150:
-        pass
-    if val>500:
-        break
-print(lst)
+>>numbers = [12, 75, 150, 180, 145, 525, 50]
+>>lst = []
+>>for val in numbers:
+>>    if val%5 == 0:
+>>        lst.append(val)
+>>    if val>150:
+>>        pass
+>>    if val>500:
+>>        break
+>>print(lst)
